@@ -34,7 +34,7 @@ Also, it only took a few minutes to do.
 
 ### Nice UI. How'd you make it?
 
-I used [Gooey](#https://github.com/chriskiehl/Gooey)! Convert your command line programs into full user friendly interfaces with just one line of Python! 
+I used [Gooey](https://github.com/chriskiehl/Gooey)! Convert your command line programs into full user friendly interfaces with just one line of Python! 
 
 ## What should I know before I run this?
 

@@ -40,9 +40,9 @@ I used [Gooey](#https://github.com/chriskiehl/Gooey)! Convert your command line 
 
 1. **SaveOverIt** makes absolutely no guarantees of working now nor in the future. It was developed against the 1.5 verion of Getting Over it in order to scratch a person itch. 
 
-2. Upon restoring a save file, your mouse sensitivity settings will be lost. I don't actually know why ¯\_(ツ)_/¯
+2. Upon restoring a save file, your mouse sensitivity settings will be lost. I don't actually know why ¯\\_(ツ)_/¯
+ you'll have to manually reset them in the settings menu. 
 
 
 
 
-Having trouble with the program? Hit me up at <a href="mailto:audionautic@gmail.com"> 

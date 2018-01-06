@@ -1,5 +1,7 @@
 ## Want to save your progress in Getting Over It?
 
+![image](https://user-images.githubusercontent.com/1408720/34637855-e42b41a0-f273-11e7-9c9b-6b3da94032ad.png)
+
 You can use the [editor on GitHub](https://github.com/chriskiehl/SavingOverIt/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.

@@ -56,5 +56,5 @@ I used [Gooey](https://github.com/chriskiehl/Gooey)! Convert your command line p
  you'll have to manually reset them in the settings menu. 
 
 
-
+## Happy Climbing! 
 

@@ -19,11 +19,23 @@ Quite so!
 
 Download the application [here](#http://google.com) 
 
+<br><br><br>
+
+
 ## How do I use it? 
 
-After [downloading](#google.com), right click on the executable and select **Run as Administrator.** Note, that this step is _super_ important! Getting Over It stores all of its save data in the Windows Registry which programs need heightened permissions to access. 
+<img src="https://user-images.githubusercontent.com/1408720/34638090-80587336-f279-11e7-91f6-d0db2803cbac.png" align="right" width="400" height="auto">
 
-Don't want to run a random program as an administrator? _Smart_. The more paranoid users can [checkout the code](#) and run it directly (after a thorough inspection).  
+After [downloading](#google.com), right click on the executable and select **Run as Administrator.** Note, that this step is _super_ important! Getting Over It stores all of its save data in the Windows Registry which requires heightened permissions to access. 
+
+Once running, you've got two options: 
+
+* Save a new snapshot 
+* Restore a previous snapshot 
+
+You can save at any time. However, to restore a snapshot, you need to either (a) be on the initial screen of the game, or (b) not have the game running at all. If you try to restore a snapshot while _playing_ that game nothing will happen, as the registry is only read when you transition from the title screen to the main game.  
+
+>If you don't want to run a random program off the internet with admin privileges, you can download the code directly from the project page [here](https://github.com/chriskiehl/SavingOverIt) and run it manually via Python (after a thorough inspection, of course!).  
 
 
 ### This goes against the spirit of the game! Why would you do this?! 

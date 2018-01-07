@@ -7,7 +7,7 @@
 
 <img src="https://user-images.githubusercontent.com/1408720/34637919-235b80c8-f275-11e7-99d4-6e9f283a8c35.png" align="right" width="400" height="auto">
 
-**SaveOverIt** is a utility for saving your progress in the game Getting Over it _without_ needing to modify the core game files. 
+**SaveOverIt** is a utility for saving your progress in the game Getting Over it without needing to modify the core game files. 
 
 Save hours of frustration by giving yourself a chance to practice techiniques and strategies for those hard spots in the game! 
 

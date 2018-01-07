@@ -42,18 +42,16 @@ You can save at any time. However, to restore a snapshot, you need to either (a)
 
 I really, _really_ enjoy the mechincs. I don't enjoy the punishing grind of some of its parts. I play games to have fun.
 
-Also, it only took a few minutes to do. 
+Also, it only took a few minutes to do. The UI side came for free thanks to [Gooey](https://github.com/chriskiehl/Gooey)! Convert your command line programs into full user friendly interfaces with just one line of Python! 
 
-### Nice UI. How'd you make it?
-
-I used [Gooey](https://github.com/chriskiehl/Gooey)! Convert your command line programs into full user friendly interfaces with just one line of Python! 
 
 ## What should I know before I run this?
 
-1. **SaveOverIt** makes absolutely no guarantees of working now nor in the future. It id provided as is. It was developed against the 1.5 verion of **Getting Over it** in order to scratch a person itch. **Use at your own risk!!**
+1. **SaveOverIt** makes absolutely **no** guarantees of working now nor in the future. It is provided _as is_. It was developed against the 1.5 verion of **Getting Over it** in order to scratch a person itch. **Use at your own risk!!**
 
 2. Upon restoring a save file, your mouse sensitivity settings will be lost. I don't actually know why ¯\\_(ツ)_/¯
  you'll have to manually reset them in the settings menu. 
+
 
 
 ## Happy Climbing! 

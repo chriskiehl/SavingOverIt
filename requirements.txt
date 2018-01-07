@@ -1,0 +1,8 @@
+beautifulsoup4==4.6.0
+bs4==0.0.1
+olefile==0.44
+pypiwin32==219
+RXPY==0.1.0
+six==1.11.0
+wxPython==4.0.0b2
+Gooey==git+https://github.com/chriskiehl/Gooey/@rc1
